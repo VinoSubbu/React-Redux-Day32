@@ -1,0 +1,11 @@
+
+.heading {
+    background: linear-gradient(to right top, #0076fb, #00a2ff, #00c0f3, #00d49b, #06df1b);
+    margin-bottom: 2rem;
+
+}
+
+.redux-heading {
+    text-align: center;
+    padding: 1rem 0;
+}
